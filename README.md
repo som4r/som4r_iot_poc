@@ -1,6 +1,6 @@
 # som4r_iot_poc
 
-A proof of concept - Use of Som4r web services, microservices and websockets within Internet of Things devices.
+A proof of concept - Still in progress.
 
 ### Preliminary experiments:
 
